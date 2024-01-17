@@ -1,0 +1,7 @@
+branchs : 
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+  remotes/origin/snape
+
+The branch snape is the one that catches my eyes.
